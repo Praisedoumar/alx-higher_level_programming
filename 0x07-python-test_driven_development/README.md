@@ -80,5 +80,5 @@ Prototypes for functions written in this project:
   * [101-lazy_matrix_mul.py](./101-lazy_matrix_mul.py): Python function that multiplies two matrices using the module `NumPy`.
   * Identical in function to [100-matrix_mul.py](./100-matrix_mul.py).
 
-* **8. CPython #3: Python Strings**
+* **8. CPython #33: Python Strings**
   * [102-python.c](./102-python.c): C function that prints basic information about Python string objects.
